@@ -1,0 +1,12 @@
+System: Hello! I am a chatbot. You can start by asking me anything.
+Human: hi
+AI: Hello! How can I assist you today?
+Human: my name is shahsawar
+AI: Nice to meet you, Shahsawar! How can I help you today?
+Human: i am 23 years old
+AI: That's great to know! Is there anything specific you would like to talk about or ask?
+Human: mujy ak complain krni hai
+AI: Aap apni shikayat mujh se share kar sakte hain. Kaise madad kar sakta hoon aap ki?
+Human: share kron kia
+AI: Ji bilkul, aap apni shikayat yahan share kar sakte hain. Main aap ki sununga aur uska hal dhoondne mein madad karne ki koshish karunga.
+Human: exit

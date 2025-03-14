@@ -1,0 +1,17 @@
+{
+    "name": null,
+    "input_variables": [
+        "length_input",
+        "paper_input",
+        "style_input"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "\n    Please summarize the research paper titled \"{paper_input}\".\n    \n    The explanation should be in a {style_input} style and should have a {length_input} length. \n    Focus on conveying the key concepts, methodologies, results, and conclusions of the paper.\n    Use clear and precise language to match the selected style, ensuring the summary captures the essence of the research work.\n    ",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}
